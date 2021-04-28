@@ -1,6 +1,5 @@
 # IRA-Forex-Dashboard-Mockup
-This repository contains links to some of my personal demo projects built and compiled with Angular.
-
+Consolidated personal IRA/forex account dashboard built with Angular 5, styled with Bootstrap, and deployed with Firebase.
 FOREX ACCOUNT DASHBOARD
 https://forex-demo-project.stackblitz.io
 
