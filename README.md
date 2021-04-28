@@ -1,4 +1,4 @@
-# Angular-Projects
+# IRA-Forex-Dashboard-Mockup
 This repository contains links to some of my personal demo projects built and compiled with Angular.
 
 FOREX ACCOUNT DASHBOARD
